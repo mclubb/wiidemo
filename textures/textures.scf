@@ -1,0 +1,6 @@
+<filepath="background.png" id="background" colfmt=6 />
+<filepath="beaver.png" id="beaver" colfmt=6 />
+<filepath="platform.png" id="platformTexture" colfmt=6 />
+<filepath="menu.png" id="menuTexture" colfmt=6 />
+<filepath="title.png" id="titleTexture" colfmt=6 />
+<filepath="vulture.png" id="vultureTexture" colfmt=6 />
